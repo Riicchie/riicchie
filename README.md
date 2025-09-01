@@ -3,7 +3,7 @@
 
 <p> - 🌱 I’m currently learning **JS, React, Next**. There are still a lot of things that I need to learn as of now but I'm go hand in hand with learning and trying things out </p>
 
-**More about me**
+<p>**More about me**</p>
 I'm currently working as a Functional Specialist but I'm trying to learn more on the development side first but eventually going over to DevOps. I have my fair share of experiences in development, as of now I am developing a solution using Odoo and customizing it with Python and XML
 
 I'm on who's driven with learning new things and trying out stuff to fit within current knowledge
