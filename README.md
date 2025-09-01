@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Ricci Alagao</h1>
 <h3 align="center">An aspiring Developer and Devops engineer</h3>
 
-- 🌱 I’m currently learning **JS, React, Next**. There are still a lot of things that I need to learn as of now but I'm go hand in hand with learning and trying things out
+<p> - 🌱 I’m currently learning **JS, React, Next**. There are still a lot of things that I need to learn as of now but I'm go hand in hand with learning and trying things out </p>
 
 **More about me**
 I'm currently working as a Functional Specialist but I'm trying to learn more on the development side first but eventually going over to DevOps. I have my fair share of experiences in development, as of now I am developing a solution using Odoo and customizing it with Python and XML
